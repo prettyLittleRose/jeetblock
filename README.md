@@ -9,6 +9,13 @@ block unwanted direct messages from potential bots/threats/scammers.
 
 ### upcoming features
 ~ code and stability improvements <br>
-~ bot alerting integration <br><br>
+~ bot alerting integration
+
+### setup
+```cmd
+pip uninstall telethon
+pip install git+https://github.com/LonamiWebs/Telethon.git@67765f84a58598cee3fa52abeea9a1f76c993fdd
+```
+<br>
 
 this was inspired by [boot](https://t.me/uncarcrashingly), please use his if you want a straight-to-the-point version.
