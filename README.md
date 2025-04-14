@@ -16,6 +16,3 @@ block unwanted direct messages from potential bots/threats/scammers.
 pip uninstall telethon
 pip install git+https://github.com/LonamiWebs/Telethon.git@67765f84a58598cee3fa52abeea9a1f76c993fdd
 ```
-<br>
-
-this was inspired by [boot](https://t.me/uncarcrashingly), please use his if you want a straight-to-the-point version.
