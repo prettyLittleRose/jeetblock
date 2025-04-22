@@ -7,10 +7,6 @@ block unwanted direct messages from potential bots/threats/scammers.
 ~ option to auto-delete chats <br>
 ~ option to auto-block <br>
 
-### upcoming features
-~ code and stability improvements <br>
-~ bot alerting integration
-
 ### setup
 ```cmd
 pip uninstall telethon
